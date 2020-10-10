@@ -1,0 +1,27 @@
+﻿  DetoursGlDef.cpp
+  TexTool.cpp
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\PVRTexTool\Library\Include\PVRTexture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  BufferObjectMgr.cpp
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\OpenglHook\BufferObjectMgr.cpp(115,37): warning C4311: “类型强制转换”: 从“void *”到“uint32”的指针截断
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\OpenglHook\BufferObjectMgr.cpp(115,37): warning C4302: “类型强制转换”: 从“void *”到“uint32”截断
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\OpenglHook\BufferObjectMgr.cpp(115,53): warning C4311: “类型强制转换”: 从“const void *”到“uint32”的指针截断
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\OpenglHook\BufferObjectMgr.cpp(115,53): warning C4302: “类型强制转换”: 从“const void *”到“uint32”截断
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\OpenglHook\BufferObjectMgr.cpp(115,54): warning C4312: “类型强制转换”: 从“uint32”转换到更大的“void *”
+  ClientMessage.cpp
+  creatwth.cpp
+  detours.cpp
+  disasm.cpp
+  image.cpp
+  modules.cpp
+  dllmain.cpp
+  EglContextMgr.cpp
+  Log.cpp
+  OpenglHook.cpp
+  ShaderMgr.cpp
+  stdafx.cpp
+  TextureMgr.cpp
+F:\gitee\OpenglRipper\OpenRipper\OpenglHook\PVRTexTool\Library\Include\PVRTexture.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TlsInstance.cpp
+  VertexAttribMgr.cpp
+  正在生成代码...
+  OpenglHook.vcxproj -> F:\gitee\OpenglRipper\OpenRipper\OpenglHook\x64\Debug\OpenglHook.dll

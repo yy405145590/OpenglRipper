@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  DataMessage.cpp
+  MemoryStream.cpp
+  ObjExporter.cpp
+  PipeDataService.cpp
+  TexTool.cpp
+f:\gitee\openglripper\openripper\openglhook\pvrtextool\library\include\pvrtexture.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TexToolMain.cpp
+f:\gitee\openglripper\openripper\openglhook\pvrtextool\library\include\pvrtexture.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Tools.cpp
+  VertDataDecoder.cpp
+f:\gitee\openglripper\openripper\openglhook\tools\vertdatadecoder.cpp(101): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  f:\gitee\openglripper\openripper\openglhook\tools\vertdatadecoder.cpp(216): note: 参见对正在编译的函数 模板 实例化“void ReadFormat<int>(unsigned int,MStream &,T &)”的引用
+          with
+          [
+              T=int
+          ]
+  正在生成代码...
+MemoryStream.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  Tools.vcxproj -> F:\gitee\OpenglRipper\OpenRipper\OpenglHook\Debug\Tools.lib

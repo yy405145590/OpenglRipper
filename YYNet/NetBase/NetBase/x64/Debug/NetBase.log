@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+F:\gitee\OpenglRipper\YYNet\NetBase\NetBase\Util\RingBuffer.hpp(81,9): error C2039: "_Atomic_thread_fence": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\atomic(134): message : 参见“std”的声明
+F:\gitee\OpenglRipper\YYNet\NetBase\NetBase\Util\RingBuffer.hpp(185): message : 查看对正在编译的 类 模板 实例化“Ringbuffer<T,buffer_size,index_t,bUseLock>”的引用
